@@ -1,0 +1,1 @@
+# GenPalmIR---Generative-AI-PaLM-2-for-Information-Retrieval.
