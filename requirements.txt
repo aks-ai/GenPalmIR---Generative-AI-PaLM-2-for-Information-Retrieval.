@@ -1,0 +1,7 @@
+python-dotenv #helps to read the proected files like env, to use the google api key 
+google-generativeai #google Palm model
+langchain
+PyPdf
+faiss-cpu
+streamlit
+-e . #automatically looks fo the steup.py and executes it
